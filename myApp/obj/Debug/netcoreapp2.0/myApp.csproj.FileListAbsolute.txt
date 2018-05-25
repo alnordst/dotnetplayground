@@ -1,0 +1,11 @@
+/home/alex/Documents/dotnetplayground/myApp/bin/Debug/netcoreapp2.0/myApp.deps.json
+/home/alex/Documents/dotnetplayground/myApp/bin/Debug/netcoreapp2.0/myApp.runtimeconfig.json
+/home/alex/Documents/dotnetplayground/myApp/bin/Debug/netcoreapp2.0/myApp.runtimeconfig.dev.json
+/home/alex/Documents/dotnetplayground/myApp/bin/Debug/netcoreapp2.0/myApp.dll
+/home/alex/Documents/dotnetplayground/myApp/bin/Debug/netcoreapp2.0/myApp.pdb
+/home/alex/Documents/dotnetplayground/myApp/obj/Debug/netcoreapp2.0/myApp.csprojAssemblyReference.cache
+/home/alex/Documents/dotnetplayground/myApp/obj/Debug/netcoreapp2.0/myApp.csproj.CoreCompileInputs.cache
+/home/alex/Documents/dotnetplayground/myApp/obj/Debug/netcoreapp2.0/myApp.AssemblyInfoInputs.cache
+/home/alex/Documents/dotnetplayground/myApp/obj/Debug/netcoreapp2.0/myApp.AssemblyInfo.cs
+/home/alex/Documents/dotnetplayground/myApp/obj/Debug/netcoreapp2.0/myApp.dll
+/home/alex/Documents/dotnetplayground/myApp/obj/Debug/netcoreapp2.0/myApp.pdb
